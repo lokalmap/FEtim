@@ -1,0 +1,30 @@
+{
+  "name": "project_lokal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokalmap/FEtim.git"
+  },
+  "author": "firethumb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokalmap/FEtim/issues"
+  },
+  "homepage": "https://github.com/lokalmap/FEtim#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "crypto-random-string": "^1.0.0",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.1",
+    "mongoose": "^5.0.7",
+    "passport": "^0.4.0",
+    "passport-jwt": "^3.0.1"
+  }
+}
